@@ -1,6 +1,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python
 
+### 대문사진 ###
+대문 사진.png
+
+
+### .gitignore###
+.gitignore
+
 ### password ###
 password.txt
 
